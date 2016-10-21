@@ -1,0 +1,5 @@
+ass = 'VG8gcGxheSB5b3Ugd2lsbCBuZWVkIGFuIElSQyBjbGllbnQgYW5kIGNvbm5lY3QgdG8gaXJjLmdpem1vcmUub3JnIG9uIHBvcnQgNjY2OCBvciBwb3J0IDY2NjYgZm9yIFNTTC4KVGhlIGNoYW5uZWwgaXMgI3NoYWRvd2xhbWI='
+
+import base64
+
+print(base64.b64decode(ass))
